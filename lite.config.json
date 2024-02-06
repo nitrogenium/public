@@ -1,0 +1,24 @@
+{
+    "@type": "config.global",
+    "liteservers":
+    [
+        {
+            "ip": 1097597700,
+            "port": 9305,
+            "id":
+            {
+                "@type": "pub.ed25519",
+                "key": "2i7cyuajTisPday4MKbTIOVEIHbClgVv8lCtYOP1igo="
+            }
+        },
+        {
+            "id":
+            {
+                "@type": "pub.ed25519",
+                "key": "iVQH71cymoNgnrhOT35tl/Y7k86X5iVuu5Vf68KmifQ="
+            },
+            "ip": 1091931589,
+            "port": 13570
+        }
+    ]
+}
